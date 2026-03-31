@@ -11,7 +11,7 @@
         android:id="@+id/welcomeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Liam!"
+        android:text="Hello Cora!"
         android:textSize="34sp"
         android:textStyle="bold"
         android:textColor="#2196F3"
